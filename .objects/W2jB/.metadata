@@ -1,0 +1,12 @@
+﻿{
+  "Id": "W2jBrZKFok-AF2P02pLUCQ",
+  "Reference": "ROvUF8zTBUu9tWWrt5D4Vg/W2jBrZKFok-AF2P02pLUCQ",
+  "Name": "Instagram",
+  "Description": "Instagram Selectors.",
+  "Type": "App",
+  "Created": "2021-03-27T13:33:26.7649039Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-03-27T13:33:26.7649039Z"
+}

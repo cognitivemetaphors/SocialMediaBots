@@ -1,0 +1,17 @@
+﻿{
+  "Id": "AgevarfBAk-2s4nWjDTZtA",
+  "Reference": "ROvUF8zTBUu9tWWrt5D4Vg/AgevarfBAk-2s4nWjDTZtA",
+  "ParentRef": "ROvUF8zTBUu9tWWrt5D4Vg/32D7WjebU0m7MgeyL_9eNw",
+  "Name": "Followers",
+  "Description": "Instagram followers",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-03-27T14:16:44.8852292Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-03-27T14:18:02.6019401Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

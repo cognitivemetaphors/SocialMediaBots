@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.instagram.com/alyssaggarcia/" ContentHash="I82adMC0FEicgkm_usumxQ" DesignTimeRectangle="1200, 221, 103, 21" ElementType="Text" FriendlyName="'1,261 followers'" FullSelectorArgument="&lt;webctrl aaname='1,261 followers' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='A' innertext='* followers' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='alyssa garcia (@alyssaggarcia) • Instagram photos and videos' /&gt;" SearchSteps="FuzzySelector, Image" Text="1,261 followers" TextMethod="AttributeText" TextSelector="&lt;webctrl tag='A' type='' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0Dw5GY3QrCkyoxxtcuQXwgA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3315d65f502b6f4bc3129864c8d9e925.png" xmlns="">0P9FzQVeSmEeLBNJq12kLXw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp BrowserType="Chrome" ContentHash="ffrB8DQDM0iJQAX6-SKflQ" Selector="&lt;html app='chrome.exe' title='alyssa garcia (@alyssaggarcia) • Instagram photos and videos'/&gt;" Url="https://www.instagram.com/alyssaggarcia/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">05RcMy1NzWU6_fTjgpEyIUA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7f9aebfcc2f3e13c4c3add2515b6879a.png" xmlns="">08SesOTTFsUyM9Iqab7JoFw</imageRef>
+</TargetApp>

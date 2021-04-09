@@ -3,13 +3,21 @@
   "description": "SocialMediaBots ",
   "main": "NewActivity.xaml",
   "dependencies": {
+    "UiPath.DataService.Activities": "21.1.2",
     "UiPath.Excel.Activities": "2.9.5",
     "UiPath.Mail.Activities": "1.9.5",
     "UiPath.System.Activities": "20.10.3",
     "UiPath.UIAutomation.Activities": "20.10.8"
   },
   "webServices": [],
-  "entitiesStores": [],
+  "entitiesStores": [
+    {
+      "serviceDocument": ".entities/EntitiesStore.json",
+      "tenantName": "CognitiveMetaphors",
+      "namespace": "SocialMediaBots",
+      "uniqueReference": "727DgerQQ/g2Qp+yeOtu67xV79qRX4oiCP9M5YEVEO4="
+    }
+  ],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.4.0",
   "projectVersion": "1.0.0",
@@ -37,7 +45,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
   "isTemplate": false,

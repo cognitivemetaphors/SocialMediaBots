@@ -1,0 +1,16 @@
+﻿{
+  "Id": "32D7WjebU0m7MgeyL_9eNw",
+  "Reference": "ROvUF8zTBUu9tWWrt5D4Vg/32D7WjebU0m7MgeyL_9eNw",
+  "ParentRef": "ROvUF8zTBUu9tWWrt5D4Vg/fo1n72hyL0C3zpy6r-dkcg",
+  "Name": "Instagram User Information",
+  "Description": "Instagram User Information",
+  "Type": "Screen",
+  "Created": "2021-03-27T14:15:35.4211307Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-03-27T14:15:44.4321363Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
