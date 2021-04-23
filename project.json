@@ -15,7 +15,7 @@
       "serviceDocument": ".entities/EntitiesStore.json",
       "tenantName": "CognitiveMetaphors",
       "namespace": "SocialMediaBots",
-      "uniqueReference": "727DgerQQ/g2Qp+yeOtu67xV79qRX4oiCP9M5YEVEO4="
+      "uniqueReference": "WJAYXb9KwGdhgmc1Bk3cgEqLpnzJ381IwMcv7f5XRmQ="
     }
   ],
   "schemaVersion": "4.0",
@@ -50,5 +50,6 @@
   "expressionLanguage": "VisualBasic",
   "isTemplate": false,
   "templateProjectData": {},
-  "publishData": {}
+  "publishData": {},
+  "targetFramework": "Legacy"
 }
