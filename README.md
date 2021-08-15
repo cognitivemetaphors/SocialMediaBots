@@ -1,2 +1,2 @@
 # SocialMediaBots
-A workshop on using UiPath and UiPath data service to create bots to help artists track their social media.
+Workshops on using UiPath, UiPath data service, UiPath test suite to create bots to help artists so they can focus on creation.
