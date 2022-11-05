@@ -83,7 +83,7 @@ pipeline {
 	               			folderName: "${UIPATH_ORCH_FOLDER_NAME}",
                       environments: "env",
                       createProcess: true,
-                      credentials: credentials: ExternalApp(accountForApp: "${UIPATH_ORCH_LOGICAL_NAME}", applicationId: "${EXAPP_APPID}", applicationSecret: 'ExApp_aitraining_Mai_TestSuiteTraining', applicationScope: "${EXAPP_SCOPES}", identityUrl: "${EXAPP_IDENTITYURL}"),
+                      credentials: ExternalApp(accountForApp: "${UIPATH_ORCH_LOGICAL_NAME}", applicationId: "${EXAPP_APPID}", applicationSecret: 'ExApp_aitraining_Mai_TestSuiteTraining', applicationScope: "${EXAPP_SCOPES}", identityUrl: "${EXAPP_IDENTITYURL}"),
           //					credentials: ExternalApp(accountForApp: "${UIPATH_ORCH_LOGICAL_NAME}", applicationId: "${EXAPP_APPID}", applicationSecret: 'ExApp_aitraining_Mai_TestSuiteTraining', applicationScope: "${EXAPP_SCOPES}", identityUrl: "${EXAPP_IDENTITYURL}"),
                       traceLevel: 'Information',
 					          	entryPointPaths: 'Main.xaml'
